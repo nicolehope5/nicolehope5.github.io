@@ -4,16 +4,15 @@
 
 # Site settings
 title: Sarah A. Wu
-email: sarahawu@stanford.edu
+email: nhcoates@mit.edu
 description: >- # this means to ignore newlines until "baseurl:"
-    Sarah A. Wu
+    Nicole H Coates
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://sarahawu.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://nicolehope5.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 socials:
-    twitter:
-    github: sarahawu
-    instagram: swubear
-    last-fm: sarahwu_
+    twitter: nicolehcoates
+    github: nicolehope5
+    instagram: nicolesundance
 
 collections:
     publications:
