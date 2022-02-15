@@ -5,18 +5,17 @@ permalink: /
 ---
 
 {:.content-narrow .content-block}
-I am a second-year PhD student in Psychology at Stanford University, advised by [Tobi Gerstenberg](http://cicl.stanford.edu/member/tobias_gerstenberg/){:target="_blank"} in the [Causality in Cognition Lab](http://cicl.stanford.edu/){:target="_blank"} and supported by an NSF Graduate Research Fellowship.
-I received double BS degrees (virtually!) from MIT studying math, computer science, and cognitive science.
-At MIT, I worked with [Josh Tenenbaum](http://cocosci.mit.edu/josh){:target="_blank"} and [Max Kleiman-Weiner](http://www.mit.edu/~maxkw/){:target="_blank"} in the CoCoSci group and with [Ted Gibson](http://tedlab.mit.edu/ted.html){:target="_blank"} in the TedLab.
+I am a first-year graduate student in Brain and Cognitive Sciences at MIT, advised by [Laura Schulz](https://eccl.mit.edu/laura-schulz-bio){:target="_blank"} in the [Early Childhood Cognition Lab](https://eccl.mit.edu/){:target="_blank"}.
+I received my BS degree from UC Davis in Cognitive Neuroscience.
+At UC Davis, I worked with [Andy Yonelinas](https://yonelinas.faculty.ucdavis.edu/people/){:target="_blank"} as a research assistant in the Human Memory Lab. After I graduated, I worked with [Lisa Oakes](https://mindbrain.ucdavis.edu/people/lmoakes){:target="_blank"} in the Infant Cognition Lab as a lab manager.
 
 {:.content-narrow .content-block}
-My research focuses on computational modeling of social cognition.
-I study how people use counterfactual reasoning to make social inferences and judgments about each other, and try to formalize these processes using tools such as Bayesian inference and reinforcement learning.
-Outside of research, I like boba, running, music, and design.
+Broadly, I am interested in how children build models of the world, and how to build models of that task. My current research focuses on the whether children are sensitive to abstract correlations. This work is in collaboration with [Josh Tenenbaum] (http://web.mit.edu/cocosci/josh.html){:target="_blank"} and [Max Siegel] (http://web.mit.edu/maxs/www/){:target="_blank"}
+Outside of research, I like photography, catching sunsets, music, and .
 I also mentor local high school students through the [Stanford FAST](https://fast.stanford.edu/){:target="_blank"} program and discuss tech ethics with [Stanford C&S](https://stanford-cscs.github.io/){:target="_blank"}.
 
 {:.content-narrow .content-block}
-You can email me at sarahawu [at] stanford.edu. 
+You can email me at nhcoates [at] mit.edu.
 
 {:.profile .content-mid}
-![profile](/imgs/acadia.png)
+![profile](/imgs/nicole.png)
