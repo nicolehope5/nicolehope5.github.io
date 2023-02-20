@@ -5,7 +5,7 @@ permalink: /
 ---
 
 {:.content-narrow .content-block}
-I am a first-year graduate student in Brain and Cognitive Sciences at MIT, advised by [Laura Schulz](https://eccl.mit.edu/laura-schulz-bio){:target="_blank"} in the [Early Childhood Cognition Lab](https://eccl.mit.edu/){:target="_blank"}.
+I am a second-year graduate student in Brain and Cognitive Sciences at MIT, advised by [Laura Schulz](https://eccl.mit.edu/laura-schulz-bio){:target="_blank"} in the [Early Childhood Cognition Lab](https://eccl.mit.edu/){:target="_blank"}.
 I received my BS degree from UC Davis in Cognitive Neuroscience.
 At UC Davis, I worked with [Andy Yonelinas](https://yonelinas.faculty.ucdavis.edu/people/){:target="_blank"} as a research assistant in the Human Memory Lab. After I graduated, I worked with [Lisa Oakes](https://mindbrain.ucdavis.edu/people/lmoakes){:target="_blank"} in the Infant Cognition Lab as a lab manager.
 
