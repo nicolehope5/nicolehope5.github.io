@@ -17,4 +17,4 @@ Outside of research I like photography, cooking, catching sunsets, discovering n
 You can email me at nhcoates [at] mit.edu.
 
 {:.profile .content-mid}
-![profile](/imgs/nicole.png)
+![profile](/imgs/nicole.jpeg)
